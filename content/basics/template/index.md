@@ -22,7 +22,7 @@ tags:
 
 ## Ingredients
 
-| Ingrediant | Amount    | Notes |
+| Ingredient | Amount    | Notes |
 | ---------- | --------- | ----- |
 | Chicken Breast | 2 |   |
 | Chicken Broth | 2 cup |   |
