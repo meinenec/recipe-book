@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/appetizers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/basics/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/breads/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/desserts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/drinks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/entr%C3%A9es/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/gluten-free/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/recipes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/salads/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/sandwiches/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/seasonal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/sides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/snacks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/soups/stews/chilis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/basics/template/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/recipes/template/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vegan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/vegetarian/</loc>
+  </url>
+  
+</urlset>
