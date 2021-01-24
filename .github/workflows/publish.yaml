@@ -20,9 +20,17 @@ jobs:
       - name: Build
         run: hugo
 
+      - name: Inspect
+        run: ls -la ./public
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           publish_branch: gh-pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: 
+        run: |
+          git switch gh-pages
+          ls -la
