@@ -23,7 +23,7 @@ jobs:
       - name: Inspect
         run: |
           ls -la ./public
-          ls -la ./themes
+          ls -la ./themes/hugo-theme-stack-2.0.1
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
