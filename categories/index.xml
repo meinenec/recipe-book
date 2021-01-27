@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Example Site</title>
-    <link>https://example.com/categories/</link>
+    <link>https://recipe-book.net/categories/</link>
     <description>Recent content in Categories on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://recipe-book.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appetizers</title>
-      <link>https://example.com/categories/appetizers/</link>
+      <link>https://recipe-book.net/categories/appetizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/appetizers/</guid>
+      <guid>https://recipe-book.net/categories/appetizers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breads</title>
-      <link>https://example.com/categories/breads/</link>
+      <link>https://recipe-book.net/categories/breads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/breads/</guid>
+      <guid>https://recipe-book.net/categories/breads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desserts</title>
-      <link>https://example.com/categories/desserts/</link>
+      <link>https://recipe-book.net/categories/desserts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/desserts/</guid>
+      <guid>https://recipe-book.net/categories/desserts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drinks</title>
-      <link>https://example.com/categories/drinks/</link>
+      <link>https://recipe-book.net/categories/drinks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/drinks/</guid>
+      <guid>https://recipe-book.net/categories/drinks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entrées</title>
-      <link>https://example.com/categories/entr%C3%A9es/</link>
+      <link>https://recipe-book.net/categories/entr%C3%A9es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/entr%C3%A9es/</guid>
+      <guid>https://recipe-book.net/categories/entr%C3%A9es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salads</title>
-      <link>https://example.com/categories/salads/</link>
+      <link>https://recipe-book.net/categories/salads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/salads/</guid>
+      <guid>https://recipe-book.net/categories/salads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sandwiches</title>
-      <link>https://example.com/categories/sandwiches/</link>
+      <link>https://recipe-book.net/categories/sandwiches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/sandwiches/</guid>
+      <guid>https://recipe-book.net/categories/sandwiches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sides</title>
-      <link>https://example.com/categories/sides/</link>
+      <link>https://recipe-book.net/categories/sides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/sides/</guid>
+      <guid>https://recipe-book.net/categories/sides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snacks</title>
-      <link>https://example.com/categories/snacks/</link>
+      <link>https://recipe-book.net/categories/snacks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/snacks/</guid>
+      <guid>https://recipe-book.net/categories/snacks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soups/Stews/Chilis</title>
-      <link>https://example.com/categories/soups/stews/chilis/</link>
+      <link>https://recipe-book.net/categories/soups/stews/chilis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/soups/stews/chilis/</guid>
+      <guid>https://recipe-book.net/categories/soups/stews/chilis/</guid>
       <description></description>
     </item>
     
