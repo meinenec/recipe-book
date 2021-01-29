@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snacks on Example Site</title>
-    <link>recipe-book.net/categories/snacks/</link>
+    <link>https://meinenec.github.io/recipe-book/categories/snacks/</link>
     <description>Recent content in Snacks on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="recipe-book.net/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://meinenec.github.io/recipe-book/categories/snacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>template</title>
-      <link>recipe-book.net/basics/template/</link>
+      <link>https://meinenec.github.io/recipe-book/basics/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>recipe-book.net/basics/template/</guid>
+      <guid>https://meinenec.github.io/recipe-book/basics/template/</guid>
       <description>Ingredients    Ingredient Amount Notes     Chicken Breast 2    Chicken Broth 2 cup    Black Beans 1 can    Corn 1 can    Diced Tomatoes and Chilis 1 can     Directions Notes References Want more? Try these </description>
     </item>
     
     <item>
       <title>template</title>
-      <link>recipe-book.net/recipes/template/</link>
+      <link>https://meinenec.github.io/recipe-book/recipes/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>recipe-book.net/recipes/template/</guid>
+      <guid>https://meinenec.github.io/recipe-book/recipes/template/</guid>
       <description>Ingredients    Ingredient Amount Notes     Chicken Breast 2    Chicken Broth 2 cup    Black Beans 1 can    Corn 1 can    Diced Tomatoes and Chilis 1 can     Directions Notes References Want more? Try these </description>
     </item>
     
