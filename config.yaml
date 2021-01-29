@@ -1,4 +1,4 @@
-baseurl: https://meinenec.github.io/recipe-book/
+baseurl: https://www.recipe-book.net
 languageCode: en-us
 theme: hugo-theme-stack-2.0.1
 paginate: 5
